@@ -54,3 +54,8 @@ if (window.cookieconsent) {
     }
   });
 }
+
+function cambia(lista){
+  var t=document.getElementById(lista);
+  t.className=="nascondi"? t.className="mostra": t.className="nascondi";
+  }
