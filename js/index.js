@@ -47,10 +47,10 @@ if (window.cookieconsent) {
     "dismissOnScroll": bottomLimit,
     "dismissOnWindowClick": true,
     "content": {
-      "message": "Ciao amici! Questo sito utilizza i cookie di Google Analytics esclusivamente per scopi statistici, non finalizzati a scopi commerciali.",
+      "message": "Ciao! Questo sito utilizza i cookie di Google Analytics esclusivamente per scopi statistici, non finalizzati a scopi commerciali.",
       "dismiss": "Capito!",
       "link": "Scopri di più",
-      "href": "/cookie-policy"
+      "href": "./cookie-policy"
     }
   });
 }
