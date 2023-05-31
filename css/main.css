@@ -513,6 +513,9 @@ footer>p {
     color: white;
   }
 }
+.dropdown-menu  {
+  background-color: var(--color-palette-viola);
+}
 
 /* VERY SMALL SCREENS AND LARGE TABLETS */
 
