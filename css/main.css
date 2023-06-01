@@ -93,7 +93,20 @@
   --color-palette-viola: #ae00ff;
   --color-palette-verde: #51ff00;
 }
+.rosso {
+color: red;
+} 
+.giallo {
+  color: yellow;
 
+} 
+.verde {
+  color: green;
+}  
+.azzurro {
+  color: skyblue;
+
+}
 /* GENERAL */
 
 html, body {
